@@ -11,9 +11,9 @@ function About() {
             <img src={aboutimg}></img>
         </Col>
         <Col id="second-section-about-text">
-            <h2>SOBRE MI</h2>
-            <p>Soy Daniel Veloza, desarrollador web Front-End en Bogotá, Colombia. Creo webs a medida para ayudar a las personas a estar mas conectadas, poseo buenas habilidades blandas y me gusta mantenerme en constante crecimiento aprendiendo nuevas tecnologias.</p>
-            <button>DOWNLOAD CV</button>
+            <h2>acerca de mi </h2>
+            <p></p>
+            <button>curriculum</button>
         </Col>
       </Row>
     </Container>
